@@ -1,0 +1,27 @@
+Прочитано з CSV: 114000 рядків
+Відкинуто рядків без artists/track_name: 1
+Завантажуємо 113999 треків...
+100%|##########| 114/114 [06:18<00:00,  3.32s/it]
+Завантажено документів: 113999
+Приклад документа:
+{'_id': ObjectId('6ae774b6601468cb7c4a83be'),
+ 'acousticness': 0.0322,
+ 'album_name': 'Comedy',
+ 'artists': 'Gen Hoshino',
+ 'danceability': 0.676,
+ 'duration_ms': 230666,
+ 'energy': 0.461,
+ 'explicit': False,
+ 'instrumentalness': 1.01e-06,
+ 'key': 1,
+ 'liveness': 0.358,
+ 'loudness': -6.746,
+ 'mode': 0,
+ 'popularity': 73,
+ 'speechiness': 0.143,
+ 'tempo': 87.917,
+ 'time_signature': 4,
+ 'track_genre': 'acoustic',
+ 'track_id': '5SuOikwiRyPMVoIQDJUgSV',
+ 'track_name': 'Comedy',
+ 'valence': 0.715}

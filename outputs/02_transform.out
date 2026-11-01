@@ -1,0 +1,32 @@
+Трансформацію завершено.
+Документів у tracks: 113999
+Приклад документа:
+{
+  _id: ObjectId('6ae776bf25ea7c3bbae9d981'),
+  track_id: '5SuOikwiRyPMVoIQDJUgSV',
+  album_name: 'Comedy',
+  track_name: 'Comedy',
+  popularity: 73,
+  duration_ms: 230666,
+  explicit: false,
+  track_genre: 'acoustic',
+  artists: [
+    'Gen Hoshino'
+  ],
+  audio_features: {
+    danceability: 0.676,
+    energy: 0.461,
+    loudness: -6.746,
+    speechiness: 0.143,
+    acousticness: 0.0322,
+    instrumentalness: 0.00000101,
+    liveness: 0.358,
+    valence: 0.715,
+    tempo: 87.917,
+    key: 1,
+    mode: 0,
+    time_signature: 4
+  },
+  duration_sec: 230.7,
+  popularity_tier: 'high'
+}
