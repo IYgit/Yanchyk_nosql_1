@@ -1,0 +1,734 @@
+
+======================================================================
+Завдання 1. Треки для вечірки
+======================================================================
+Знайдено треків: 7311
+Топ-10 за популярністю:
+[
+  {
+    track_name: 'Calm Down (with Selena Gomez)',
+    popularity: 92,
+    track_genre: 'pop',
+    artists: [
+      'Rema',
+      'Selena Gomez'
+    ],
+    audio_features: {
+      danceability: 0.801,
+      energy: 0.806
+    },
+    duration_sec: 239.3
+  },
+  {
+    track_name: 'LOKERA',
+    popularity: 91,
+    track_genre: 'latin',
+    artists: [
+      'Rauw Alejandro',
+      'Lyanno',
+      'Brray'
+    ],
+    audio_features: {
+      danceability: 0.834,
+      energy: 0.828
+    },
+    duration_sec: 195.3
+  },
+  {
+    track_name: 'LOKERA',
+    popularity: 91,
+    track_genre: 'latino',
+    artists: [
+      'Rauw Alejandro',
+      'Lyanno',
+      'Brray'
+    ],
+    audio_features: {
+      danceability: 0.834,
+      energy: 0.828
+    },
+    duration_sec: 195.3
+  },
+  {
+    track_name: 'Party',
+    popularity: 90,
+    track_genre: 'reggaeton',
+    artists: [
+      'Bad Bunny',
+      'Rauw Alejandro'
+    ],
+    audio_features: {
+      danceability: 0.829,
+      energy: 0.799
+    },
+    duration_sec: 227.6
+  },
+  {
+    track_name: 'Party',
+    popularity: 90,
+    track_genre: 'reggae',
+    artists: [
+      'Bad Bunny',
+      'Rauw Alejandro'
+    ],
+    audio_features: {
+      danceability: 0.829,
+      energy: 0.799
+    },
+    duration_sec: 227.6
+  },
+  {
+    track_name: 'Party',
+    popularity: 90,
+    track_genre: 'latino',
+    artists: [
+      'Bad Bunny',
+      'Rauw Alejandro'
+    ],
+    audio_features: {
+      danceability: 0.829,
+      energy: 0.799
+    },
+    duration_sec: 227.6
+  },
+  {
+    track_name: 'One Kiss (with Dua Lipa)',
+    popularity: 89,
+    track_genre: 'house',
+    artists: [
+      'Calvin Harris',
+      'Dua Lipa'
+    ],
+    audio_features: {
+      danceability: 0.791,
+      energy: 0.862
+    },
+    duration_sec: 214.8
+  },
+  {
+    track_name: 'About Damn Time',
+    popularity: 89,
+    track_genre: 'hip-hop',
+    artists: [
+      'Lizzo'
+    ],
+    audio_features: {
+      danceability: 0.836,
+      energy: 0.743
+    },
+    duration_sec: 191.8
+  },
+  {
+    track_name: 'One Kiss (with Dua Lipa)',
+    popularity: 89,
+    track_genre: 'dance',
+    artists: [
+      'Calvin Harris',
+      'Dua Lipa'
+    ],
+    audio_features: {
+      danceability: 0.791,
+      energy: 0.862
+    },
+    duration_sec: 214.8
+  },
+  {
+    track_name: 'One Kiss (with Dua Lipa)',
+    popularity: 89,
+    track_genre: 'pop',
+    artists: [
+      'Calvin Harris',
+      'Dua Lipa'
+    ],
+    audio_features: {
+      danceability: 0.791,
+      energy: 0.862
+    },
+    duration_sec: 214.8
+  }
+]
+
+======================================================================
+Завдання 2. Виконавці, у яких усі треки популярні (топ-20)
+======================================================================
+[
+  {
+    tracks_count: 3,
+    min_popularity: 89,
+    artist: 'Harry Styles',
+    avg_popularity: 92
+  },
+  {
+    tracks_count: 4,
+    min_popularity: 90,
+    artist: 'Luar La L',
+    avg_popularity: 90.5
+  },
+  {
+    tracks_count: 5,
+    min_popularity: 86,
+    artist: 'Olivia Rodrigo',
+    avg_popularity: 87.4
+  },
+  {
+    tracks_count: 4,
+    min_popularity: 87,
+    artist: 'BYOR',
+    avg_popularity: 87
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 79,
+    artist: 'IVE',
+    avg_popularity: 84
+  },
+  {
+    tracks_count: 12,
+    min_popularity: 76,
+    artist: 'Måneskin',
+    avg_popularity: 83.7
+  },
+  {
+    tracks_count: 11,
+    min_popularity: 77,
+    artist: 'Lil Nas X',
+    avg_popularity: 83.5
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 81,
+    artist: 'Morgan Wallen',
+    avg_popularity: 83.3
+  },
+  {
+    tracks_count: 5,
+    min_popularity: 80,
+    artist: 'One Direction',
+    avg_popularity: 83
+  },
+  {
+    tracks_count: 5,
+    min_popularity: 80,
+    artist: 'TV Girl',
+    avg_popularity: 82
+  },
+  {
+    tracks_count: 4,
+    min_popularity: 81,
+    artist: 'Mac DeMarco',
+    avg_popularity: 81.5
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 81,
+    artist: 'Cults',
+    avg_popularity: 81.3
+  },
+  {
+    tracks_count: 4,
+    min_popularity: 79,
+    artist: 'Ricky Montgomery',
+    avg_popularity: 80.5
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 79,
+    artist: 'Luke Combs',
+    avg_popularity: 80.3
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 80,
+    artist: 'Declan McKenna',
+    avg_popularity: 80
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 80,
+    artist: 'Joy Again',
+    avg_popularity: 80
+  },
+  {
+    tracks_count: 7,
+    min_popularity: 69,
+    artist: 'Mora',
+    avg_popularity: 79.7
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 70,
+    artist: 'Maroon 5',
+    avg_popularity: 79.7
+  },
+  {
+    tracks_count: 7,
+    min_popularity: 73,
+    artist: 'Beach Bunny',
+    avg_popularity: 79.4
+  },
+  {
+    tracks_count: 3,
+    min_popularity: 79,
+    artist: "Gigi D'Agostino",
+    avg_popularity: 79
+  }
+]
+
+======================================================================
+Завдання 3. Нетипові треки за темпом (tempo > mean + 2*stdDev жанру)
+======================================================================
+Жанрів з нетиповими треками: 112
+Усього нетипових треків: 3506
+
+Зведення по жанрах (жанр | avg_tempo | порог | к-ть аномалій):
+  acoustic                119    178.5    34
+  afrobeat              119.2    171.8    50
+  alt-rock              124.6    183.1    26
+  alternative           122.2    183.3    33
+  ambient               111.1    175.2    34
+  anime                 123.5    189.5    13
+  black-metal           128.6    188.3    16
+  bluegrass             126.6    179.7    41
+  blues                 116.6    177.9    35
+  brazil                121.9    177.8    25
+  breakbeat               133    183.3    11
+  british               118.8    177.9    29
+  cantopop              124.3    181.5    24
+  chicago-house         123.9    145.7    20
+  children              123.3    183.3    36
+  chill                 115.5    173.3    32
+  classical             107.9      170    37
+  club                  123.3    175.5    49
+  comedy                  101      158    54
+  country                 124    187.5    22
+  dance                 120.1    170.7    54
+  dancehall             112.9    171.4    81
+  death-metal           123.8    181.5    36
+  deep-house            120.9    144.7    20
+  detroit-techno        126.6    147.1    28
+  disco                   122    160.4    31
+  disney                112.1    176.1    34
+  dub                   129.5      189     5
+  dubstep               133.6    189.7     6
+  edm                     122    166.6    58
+  electro               120.8    175.7    62
+  electronic            122.9    171.7    41
+  emo                     127    189.2    14
+  folk                  118.5    174.8    38
+  forro                 140.4    197.9     1
+  french                117.8      168    45
+  funk                  117.8    171.7    51
+  garage                  127    184.6    24
+  german                117.5      176    31
+  gospel                125.6    177.6    17
+  goth                  124.3    179.5    28
+  grindcore             119.2    172.9    48
+  groove                123.7      166    45
+  grunge                129.3    190.4    23
+  guitar                  112      171    40
+  hard-rock             125.4    182.4    27
+  hardcore              125.4    192.1    27
+  hardstyle             146.8    191.7     6
+  heavy-metal           126.6    181.6    32
+  hip-hop               116.8    175.5    40
+  honky-tonk            116.6    175.4    35
+  house                 121.1    158.9    40
+  idm                   123.3    185.6    25
+  indian                116.1    172.5    35
+  indie                 119.1    180.4    24
+  indie-pop             120.2    180.5    27
+  industrial            126.8    179.5    44
+  iranian               114.8    184.9    28
+  j-dance               114.9    175.1    62
+  j-idol                136.1    192.6    17
+  j-pop                 124.6      188    27
+  j-rock                128.5    192.2    22
+  jazz                  112.6    175.9    53
+  k-pop                 119.2      174    33
+  kids                  121.8    174.3    36
+  latin                 119.8    185.2    16
+  latino                119.4    185.7    18
+  malay                 119.3    177.4    28
+  mandopop              123.5    181.9    21
+  metal                 127.9    187.9    27
+  metalcore             130.6    192.5    22
+  minimal-techno        124.7    143.8    20
+  mpb                   120.2    179.6    34
+  new-age                 108    170.2    45
+  opera                 105.6    167.3    65
+  pagode                126.9    187.5     7
+  party                 131.3    163.8    31
+  piano                 118.1    188.3    38
+  pop                   120.9      183    21
+  pop-film              117.3    173.9    41
+  power-pop             134.7    194.2    26
+  progressive-house     125.1    148.8    27
+  psych-rock            121.6    177.1    35
+  punk                  133.6    196.3    22
+  punk-rock             132.2    194.1    22
+  r-n-b                   124    180.9    19
+  reggae                119.9    186.5    15
+  reggaeton             118.9    187.4    17
+  rock                  126.3    188.6    36
+  rock-n-roll           120.4    180.6    42
+  rockabilly            123.7    190.8    30
+  romance               109.7    168.4    57
+  sad                   119.1    180.1    17
+  salsa                 119.9    186.8    24
+  samba                 118.1    176.2    17
+  sertanejo             127.1    188.4    15
+  show-tunes            114.4    176.2    29
+  singer-songwriter     119.7    181.6    28
+  ska                   128.3    188.9    25
+  sleep                  84.6    173.9    22
+  songwriter            119.7    181.6    28
+  soul                  114.6    171.5    57
+  spanish               122.8    183.2    22
+  study                 111.8    182.9    13
+  swedish               121.1    175.1    35
+  synth-pop             122.9    168.1    51
+  tango                 114.6    160.9    49
+  techno                128.3    159.7    55
+  trance                133.3    163.3    35
+  trip-hop              118.7    179.7    38
+  turkish               120.4    179.6    31
+  world-music           121.4    182.2    11
+
+Повна структура результату (приклад — перший жанр, перші 3 треки):
+{
+  genre: 'acoustic',
+  avg_tempo: 119,
+  outlier_threshold: 178.5,
+  outlier_tracks: [
+    {
+      _id: ObjectId('6ae776bf25ea7c3bbae9d984'),
+      track_name: "Can't Help Falling In Love",
+      popularity: 71,
+      artists: [
+        'Kina Grannis'
+      ],
+      audio_features: {
+        tempo: 181.74
+      }
+    },
+    {
+      _id: ObjectId('6ae776bf25ea7c3bbae9d9a1'),
+      track_name: 'All I Want For Christmas Is A Real Good Tan',
+      popularity: 0,
+      artists: [
+        'Chord Overstreet'
+      ],
+      audio_features: {
+        tempo: 202.019
+      }
+    },
+    {
+      _id: ObjectId('6ae776bf25ea7c3bbae9d9d7'),
+      track_name: 'Brave',
+      popularity: 70,
+      artists: [
+        'Sara Bareilles'
+      ],
+      audio_features: {
+        tempo: 185.063
+      }
+    }
+  ]
+}
+
+======================================================================
+Завдання 4. Треки для фонової роботи
+======================================================================
+Знайдено треків: 9324
+Топ-10 за популярністю:
+[
+  {
+    track_name: 'everything i wanted',
+    popularity: 86,
+    track_genre: 'electro',
+    artists: [
+      'Billie Eilish'
+    ],
+    audio_features: {
+      loudness: -14.454,
+      speechiness: 0.0994,
+      instrumentalness: 0.657
+    },
+    duration_sec: 245.4
+  },
+  {
+    track_name: 'Clean White Noise - Loopable with no fade',
+    popularity: 85,
+    track_genre: 'sleep',
+    artists: [
+      'White Noise Baby Sleep',
+      'White Noise for Babies'
+    ],
+    audio_features: {
+      loudness: -28.46,
+      speechiness: 0,
+      instrumentalness: 1
+    },
+    duration_sec: 90.2
+  },
+  {
+    track_name: 'Experience',
+    popularity: 79,
+    track_genre: 'ambient',
+    artists: [
+      'Ludovico Einaudi',
+      'Daniel Hope',
+      'I Virtuosi Italiani'
+    ],
+    audio_features: {
+      loudness: -10.634,
+      speechiness: 0.0376,
+      instrumentalness: 0.961
+    },
+    duration_sec: 315.4
+  },
+  {
+    track_name: 'Experience',
+    popularity: 79,
+    track_genre: 'classical',
+    artists: [
+      'Ludovico Einaudi',
+      'Daniel Hope',
+      'I Virtuosi Italiani'
+    ],
+    audio_features: {
+      loudness: -10.634,
+      speechiness: 0.0376,
+      instrumentalness: 0.961
+    },
+    duration_sec: 315.4
+  },
+  {
+    track_name: 'Show Me How',
+    popularity: 79,
+    track_genre: 'indie',
+    artists: [
+      'Men I Trust'
+    ],
+    audio_features: {
+      loudness: -11.997,
+      speechiness: 0.0415,
+      instrumentalness: 0.534
+    },
+    duration_sec: 215.1
+  },
+  {
+    track_name: 'Show Me How',
+    popularity: 79,
+    track_genre: 'indie-pop',
+    artists: [
+      'Men I Trust'
+    ],
+    audio_features: {
+      loudness: -11.997,
+      speechiness: 0.0415,
+      instrumentalness: 0.534
+    },
+    duration_sec: 215.1
+  },
+  {
+    track_name: 'K.',
+    popularity: 78,
+    track_genre: 'ambient',
+    artists: [
+      'Cigarettes After Sex'
+    ],
+    audio_features: {
+      loudness: -10.261,
+      speechiness: 0.0265,
+      instrumentalness: 0.846
+    },
+    duration_sec: 320
+  },
+  {
+    track_name: 'K.',
+    popularity: 78,
+    track_genre: 'indie',
+    artists: [
+      'Cigarettes After Sex'
+    ],
+    audio_features: {
+      loudness: -10.261,
+      speechiness: 0.0265,
+      instrumentalness: 0.846
+    },
+    duration_sec: 320
+  },
+  {
+    track_name: 'K.',
+    popularity: 78,
+    track_genre: 'indie-pop',
+    artists: [
+      'Cigarettes After Sex'
+    ],
+    audio_features: {
+      loudness: -10.261,
+      speechiness: 0.0265,
+      instrumentalness: 0.846
+    },
+    duration_sec: 320
+  },
+  {
+    track_name: 'i was all over her',
+    popularity: 77,
+    track_genre: 'indie-pop',
+    artists: [
+      'salvia palth'
+    ],
+    audio_features: {
+      loudness: -12.835,
+      speechiness: 0.0292,
+      instrumentalness: 0.853
+    },
+    duration_sec: 161.5
+  }
+]
+
+======================================================================
+Додатково. $lookup + $unwind: трек проти середнього по жанру
+======================================================================
+[
+  {
+    track_name: 'Unholy (feat. Kim Petras)',
+    popularity: 100,
+    track_genre: 'pop',
+    artists: [
+      'Sam Smith',
+      'Kim Petras'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.472,
+    genre_avg_energy: 0.606,
+    genre_avg_popularity: 47.6,
+    energy_vs_genre: -0.134
+  },
+  {
+    track_name: 'Unholy (feat. Kim Petras)',
+    popularity: 100,
+    track_genre: 'dance',
+    artists: [
+      'Sam Smith',
+      'Kim Petras'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.472,
+    genre_avg_energy: 0.709,
+    genre_avg_popularity: 22.7,
+    energy_vs_genre: -0.237
+  },
+  {
+    track_name: 'Quevedo: Bzrp Music Sessions, Vol. 52',
+    popularity: 99,
+    track_genre: 'hip-hop',
+    artists: [
+      'Bizarrap',
+      'Quevedo'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.782,
+    genre_avg_energy: 0.683,
+    genre_avg_popularity: 37.8,
+    energy_vs_genre: 0.099
+  },
+  {
+    track_name: "I'm Good (Blue)",
+    popularity: 98,
+    track_genre: 'edm',
+    artists: [
+      'David Guetta',
+      'Bebe Rexha'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.965,
+    genre_avg_energy: 0.756,
+    genre_avg_popularity: 35,
+    energy_vs_genre: 0.209
+  },
+  {
+    track_name: "I'm Good (Blue)",
+    popularity: 98,
+    track_genre: 'pop',
+    artists: [
+      'David Guetta',
+      'Bebe Rexha'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.965,
+    genre_avg_energy: 0.606,
+    genre_avg_popularity: 47.6,
+    energy_vs_genre: 0.359
+  },
+  {
+    track_name: "I'm Good (Blue)",
+    popularity: 98,
+    track_genre: 'dance',
+    artists: [
+      'David Guetta',
+      'Bebe Rexha'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.965,
+    genre_avg_energy: 0.709,
+    genre_avg_popularity: 22.7,
+    energy_vs_genre: 0.256
+  },
+  {
+    track_name: 'La Bachata',
+    popularity: 98,
+    track_genre: 'latin',
+    artists: [
+      'Manuel Turizo'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.679,
+    genre_avg_energy: 0.727,
+    genre_avg_popularity: 8.3,
+    energy_vs_genre: -0.048
+  },
+  {
+    track_name: 'La Bachata',
+    popularity: 98,
+    track_genre: 'reggaeton',
+    artists: [
+      'Manuel Turizo'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.679,
+    genre_avg_energy: 0.739,
+    genre_avg_popularity: 23.9,
+    energy_vs_genre: -0.06
+  },
+  {
+    track_name: 'La Bachata',
+    popularity: 98,
+    track_genre: 'reggae',
+    artists: [
+      'Manuel Turizo'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.679,
+    genre_avg_energy: 0.726,
+    genre_avg_popularity: 20.6,
+    energy_vs_genre: -0.047
+  },
+  {
+    track_name: 'La Bachata',
+    popularity: 98,
+    track_genre: 'latino',
+    artists: [
+      'Manuel Turizo'
+    ],
+    tracks_in_genre: 1000,
+    energy: 0.679,
+    genre_avg_energy: 0.732,
+    genre_avg_popularity: 25.7,
+    energy_vs_genre: -0.053
+  }
+]
+
+Готово.
