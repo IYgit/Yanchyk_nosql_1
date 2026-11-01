@@ -1,0 +1,28 @@
+# ---- Секрети ----
+.env
+.env.*
+!.env.example
+
+# ---- Python ----
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# ---- IDE ----
+.idea/
+.vscode/
+
+# ---- Дані (завантажуються з Kaggle, ~20 МБ) ----
+dataset.csv
+*.csv.zip
+
+# ---- Архіви здачі ----
+*.zip
+
+# ---- ОС ----
+.DS_Store
+Thumbs.db
+desktop.ini
