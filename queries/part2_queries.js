@@ -1,6 +1,6 @@
 // queries/part2_queries.js
 // Частина 2 — запити до колекції spotify.tracks
-// Запуск: mongosh "ВАШ_URI" --quiet --file queries/part2_queries.js
+// Запуск: mongosh MONGODB_URI --quiet --file queries/part2_queries.js
 
 db = db.getSiblingDB("spotify");
 

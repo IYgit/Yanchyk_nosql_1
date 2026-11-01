@@ -551,7 +551,7 @@ db.tracks.find(
 
 ## Частина 3 — Індекси та оптимізація
 
-> Додатковий блок для самостійного опрацювання (не оцінюється).
+> Додатковий блок.
 
 Файл: [`queries/part3_indexes.js`](queries/part3_indexes.js), повний вивід:
 [`outputs/part3_indexes.out`](outputs/part3_indexes.out).
